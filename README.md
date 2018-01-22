@@ -63,7 +63,7 @@ $ tensorboard --logdir='log'
 ![这里写图片描述](http://img.blog.csdn.net/20180122104002479)
 5. HISTOGRAMS 
 也可以看以上数据的直方图 
-![这里写图片描述](http://img.blog.csdn.net/20180122104633444)
+![这里写图片描述](http://img.blog.csdn.net/20180122104807419)
 6. EMBEDDINGS
 展示的是嵌入向量的可视化效果，本案例中没有使用这个功能。之后其他案例中再详述。
 7. AUDIO
